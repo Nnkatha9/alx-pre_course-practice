@@ -1,1 +1,1 @@
-echo "The school is open!"
+cho "ALX School is so cool!"
